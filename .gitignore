@@ -1,0 +1,10 @@
+backend/node_modules
+backend/.env
+backend/faceit.db
+
+frontend/faceit-tracker/node_modules
+frontend/faceit-tracker/dist
+frontend/faceit-tracker/.env.local
+
+.DS_Store
+*.log
